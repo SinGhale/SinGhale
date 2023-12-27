@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SinGhale
-- 👀 I’m interested in FullStack
+- 👀 I’m interested in FullStack and AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any Projects
 
