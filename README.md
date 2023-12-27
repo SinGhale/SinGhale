@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinGhale
 - 👀 I’m interested in FullStack
-- 🌱 I’m currently learning Python, Java, React
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any Projects
 
 <!---
